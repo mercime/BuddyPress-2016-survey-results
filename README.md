@@ -1,5 +1,5 @@
 # BuddyPress 2016 survey results
 
-Report: (coming soon)
+Report: 
 
-Graphs: (coming soon)
+Graphs: [http://mercime.github.io/BuddyPress-2016-survey-results/](http://mercime.github.io/BuddyPress-2016-survey-results/)
